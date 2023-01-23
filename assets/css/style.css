@@ -1,4 +1,11 @@
 @charset "UTF-8";
-#paineis-sobre {
+.paineis-sobre {
     margin-top: 20px;
+}
+.depoimento-titulo {
+    background-color: #0275D8;
+    color: rgb(245, 245, 245);
+    padding-top: 27px;
+    padding-bottom: 27px;
+    margin-bottom: 0;
 }
